@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MIKIMARUXHUB/Beta/main/EVADE.lua%20(1).txt'))()
